@@ -7,3 +7,4 @@ venv/*
 !venv/Scripts
 venv/Scripts/*
 !venv/Scripts/*.ui
+!venv/*.py
