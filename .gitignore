@@ -1,0 +1,9 @@
+/*
+!.gitignore
+!pip_list.txt
+!how_to_upload_tag.txt
+!venv
+venv/*
+!venv/Scripts
+venv/Scripts/*
+!venv/Scripts/*.ui
